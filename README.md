@@ -17,4 +17,4 @@ Aprender a:
 5. Crea un Pull Request
 
 ## Participantes
-- (Agrega tu nombre aquí)
+- Charles Jesús Morales Velasco - python 
